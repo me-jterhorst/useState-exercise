@@ -1,0 +1,14 @@
+.female {
+  background: lightsalmon;
+}
+
+.male {
+  background: lightblue;
+}
+
+.person {
+  min-width: 250px;
+  max-width: 300px;
+  padding: 1em;
+  margin-bottom: 1em;
+}
